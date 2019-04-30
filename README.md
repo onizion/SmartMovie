@@ -21,6 +21,8 @@ To use this mobile application, simply install the APK file on the mobile phone.
 #used technologies
 
 Tool: Android Studio
+
 Programming Language = Java
+
 Android libraries = Retrofit , Glide
 
